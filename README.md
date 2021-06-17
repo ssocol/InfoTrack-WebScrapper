@@ -1,7 +1,10 @@
-# InfoTrack-WebScrapper
+## InfoTrack-WebScrapper
 
-# Setup
+# Api Setup
 To make the app work, please execute these commands: cd .\WebScrapper.Data and then dotent ef database update on visual studio console
+
+# Spa Setup
+To run the app, please, execute npm install to install all the project dependencies and then execute npm start
 
 # Design
 The app is running on .NET 5
