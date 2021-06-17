@@ -1,12 +1,12 @@
-## InfoTrack-WebScrapper
+# InfoTrack-WebScrapper
 
-# Api Setup
+## Api Setup
 To make the app work, please execute these commands: cd .\WebScrapper.Data and then dotent ef database update on visual studio console
 
-# Spa Setup
+## Spa Setup
 To run the app, please, execute npm install to install all the project dependencies and then execute npm start
 
-# Design
+## Design
 The app is running on .NET 5
 
 The solution  is a N tier Web API that been splitted in 3 layers (Application, Domain, Data)
