@@ -1,0 +1,14 @@
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\bin\Debug\net5.0\WebScrapper.Data.deps.json
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\bin\Debug\net5.0\WebScrapper.Data.runtimeconfig.json
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\bin\Debug\net5.0\WebScrapper.Data.runtimeconfig.dev.json
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\bin\Debug\net5.0\WebScrapper.Data.dll
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\bin\Debug\net5.0\ref\WebScrapper.Data.dll
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\bin\Debug\net5.0\WebScrapper.Data.pdb
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.AssemblyInfoInputs.cache
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.AssemblyInfo.cs
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.csproj.CoreCompileInputs.cache
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.dll
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\ref\WebScrapper.Data.dll
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.pdb
+C:\Users\Calga\source\repos\WebScrapper.API\WebScrapper.Data\obj\Debug\net5.0\WebScrapper.Data.genruntimeconfig.cache
