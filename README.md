@@ -1,7 +1,9 @@
 # InfoTrack-WebScrapper
 
-To make the app work, please execute the command dotent ef database update on visual studio console
+# Setup
+To make the app work, please execute these commands: cd .\WebScrapper.Data and then dotent ef database update on visual studio console
 
+# Design
 The app is running on .NET 5
 
 The solution  is a N tier Web API that been splitted in 3 layers (Application, Domain, Data)
